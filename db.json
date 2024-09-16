@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "fe59",
+      "rollNumber": "1",
+      "name": "Abin Benoy",
+      "email": "abinsgsgs@gmail.com",
+      "phoneNumber": "9998882266",
+      "checkinTime": "4:55:09 PM",
+      "checkoutTime": "4:55:09 PM"
+    },
+    {
+      "id": "f8a3",
+      "rollNumber": "2",
+      "name": "Abhihjth",
+      "email": "aasjbsjdj@gaim.com",
+      "phoneNumber": "888277312",
+      "checkinTime": "5:19:04 PM",
+      "checkoutTime": "5:19:04 PM"
+    }
+  ]
+}
